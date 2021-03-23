@@ -77,7 +77,7 @@ C
 
 El procedimiento lo puede observar entrando al siguiente enlace: 
 
-<p><a href="https://github.com/Dillanj2/Informe6/blob/main/C%C3%B3digo%20fuente/Procedimiento_de_Laboratorio_6.pdf">Procedimiento</a>
+<p><a href="https://github.com/Dillanj2/Informe7/blob/main/C%C3%B3digo%20fuente/Procedimiento_de_Laboratorio_7.pdf">Procedimiento</a>
 
 6. CONCLUSIONES
 
